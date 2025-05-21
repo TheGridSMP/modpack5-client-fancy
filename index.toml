@@ -681,10 +681,6 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
-file = "mods/packwizsu-2.3.0-gsmp.jar"
-hash = "2bc70e3974df6332657e0ed9df1263d7999c5f146c2621de62cddf9831bbd00a"
-
-[[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "a1bf139dbad00b5c1b7d8129dd22e33f1536f0dcf9f572f6cd6969131806e796"
 metafile = true
