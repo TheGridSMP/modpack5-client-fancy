@@ -25,6 +25,14 @@ file = "config/gravestones.json"
 hash = "22603fc453b36aef3664028ecf474bed19d1548f7a56282d5638be1fc393c35a"
 
 [[files]]
+file = "config/modpack-update-checker/config.json"
+hash = "4bdf15015c205c91c5de150c5f1d9c53b663da382b4326bb9844ed19ab2a1e96"
+
+[[files]]
+file = "config/modpack-update-checker/modpack-info.txt"
+hash = "bb35f8a4727f0cf39db7c376bb4ca4dcae772dbd278c80b197616f163cb7d015"
+
+[[files]]
 file = "config/rpgdifficulty.json"
 hash = "3a3876153d34e25ed235ef1176502c6441e530c0b3d5a41e4d5ca727250b45e6"
 
