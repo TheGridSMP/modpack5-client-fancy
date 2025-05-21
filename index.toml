@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "changelog/meta.json"
-hash = "717b85f4f89a0986ca1180ed0a328395ec128d99ac0eeb777e2f90ef78aad8b3"
-
-[[files]]
-file = "changelog/versions/1.0.0/changelog.txt"
-hash = "1dd3995785566e9d62a7b17b6bdbce1dcbbd09f7f50d0d267fb0fa3b3561ed81"
-
-[[files]]
-file = "changelog/versions/1.0.1/changelog.txt"
-hash = "1dd3995785566e9d62a7b17b6bdbce1dcbbd09f7f50d0d267fb0fa3b3561ed81"
-
-[[files]]
-file = "changelog/versions/1.0.2/changelog.txt"
-hash = "1dd3995785566e9d62a7b17b6bdbce1dcbbd09f7f50d0d267fb0fa3b3561ed81"
-
-[[files]]
 file = "config/additionz.json5"
 hash = "48d8b2f15f00a4a37ac169d62e86932d2c27998d4c75cfdc7f41ae7fab2286b6"
 
@@ -37,50 +21,6 @@ file = "config/bettercombat/server.json5"
 hash = "078534e35fbd371a879fec3af791ac61998e41f00a88452c59075fc38713379b"
 
 [[files]]
-file = "config/damagenumbers.json"
-hash = "2165ae2401aa8474cedda2dd0668bb83e59e7fcf5249786de445efb139f3ca96"
-
-[[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
-
-[[files]]
-file = "config/fancymenu/customizablemenus.txt"
-hash = "07fba33bcbc6611e187d3f5348d7969303c55ecf652d7abab7075ca3b644e752"
-
-[[files]]
-file = "config/fancymenu/customization/com.jab125.mpuc.client.gui.screen.changelog.newchangelogscreen_layout.txt"
-hash = "47d8bad165ceaa65b27be61587a4e0d2fb09142dfea5936be9c90bd36aa27bf2"
-
-[[files]]
-file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "06b5580be8f18e1726506d1fcfabec991c9664d084e60298c3fe39f385f7ed68"
-
-[[files]]
-file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
-hash = "dd696c907be24bf45d5a24ead2dc925a376017baf46b5139740b152cd6845b5f"
-
-[[files]]
-file = "config/fancymenu/legacy_checklist.txt"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "cdd6043a8c0acfbcc38a1de7763594abaf3db51c220b011f30bbdd35ce672a40"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
-
-[[files]]
 file = "config/gravestones.json"
 hash = "22603fc453b36aef3664028ecf474bed19d1548f7a56282d5638be1fc393c35a"
 
@@ -89,28 +29,12 @@ file = "config/jade/jade.json"
 hash = "4983cc576379c887dfaafd49df0ef02e1e9d96822a3aaed39f4a007918deccc1"
 
 [[files]]
-file = "config/leawind_third_person.json"
-hash = "f910846bd4b60bdcfd8732831383d2e31b80a66743c3e67133048eba2bb506b2"
-
-[[files]]
-file = "config/ledger.toml"
-hash = "6954d2a50ca922bda2b0e4e73eb4202f5061ac38103c80c7a61109e534d977f3"
-
-[[files]]
 file = "config/modpack-update-checker/config.json"
 hash = "4bdf15015c205c91c5de150c5f1d9c53b663da382b4326bb9844ed19ab2a1e96"
 
 [[files]]
 file = "config/modpack-update-checker/modpack-info.txt"
 hash = "bb35f8a4727f0cf39db7c376bb4ca4dcae772dbd278c80b197616f163cb7d015"
-
-[[files]]
-file = "config/provihealth.json"
-hash = "27bab128c37d341fc9422612c361fb18e47f3aca73ebc5d190f4a4dc5b2094d9"
-
-[[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "186cb9523a4c0d1806719ea5c2b00d71553b2affa3fb8916b04800c5dad51767"
 
 [[files]]
 file = "config/rpgdifficulty.json"
@@ -127,10 +51,6 @@ hash = "561c00a15518bb6a0e66ea98956007399e1defdf6d7f87c7a20803d7679f57d9"
 [[files]]
 file = "config/shield_overhaul/shield_overhaul.json"
 hash = "b9f2a68097f48d72912c721441dc64e4e34b347667709e79aa3e1b64464b3c57"
-
-[[files]]
-file = "config/simplehats/common.toml"
-hash = "60fe4644dae4d1f2a720f4ed407bdac5496173a6acb5e74c482fdcefad8c0390"
 
 [[files]]
 file = "config/skillz/main_config.toml"
