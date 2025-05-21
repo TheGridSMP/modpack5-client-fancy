@@ -1,0 +1,13 @@
+name = "Fancy VFX"
+filename = "fancy-vfx-1.2.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cITo67ow/versions/jXu9lh2u/fancy-vfx-1.2.6.jar"
+hash-format = "sha512"
+hash = "995e1332437e29e514a4277f2d5813fc3d38da6337a942776630d9936e248dca3b57b0bbc72935a3b34d917bb43cd7aa2d4b87b7b277f91a10129e832cca120b"
+
+[update]
+[update.modrinth]
+mod-id = "cITo67ow"
+version = "jXu9lh2u"
