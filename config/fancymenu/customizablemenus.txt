@@ -1,0 +1,8 @@
+type = customizablemenus
+
+net.minecraft.class_442 {
+}
+
+com.jab125.mpuc.client.gui.screen.changelog.NewChangelogScreen {
+}
+

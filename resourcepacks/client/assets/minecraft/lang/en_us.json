@@ -1,0 +1,17 @@
+{
+  "skill.gridskills.melee": "Determination",
+  "skill.gridskills.magic": "Willpower",
+  "skill.gridskills.defense": "Fortitude",
+  "skill.gridskills.archery": "Precision",
+  "skill.gridskills.luck": "Stars",
+	
+  "skill.gridskills.constitution": "Constitution",
+  "skill.gridskills.agility": "Agility",
+  "skill.gridskills.mining": "Mining",
+  "skill.gridskills.smithing": "Forging",
+  "skill.gridskills.farming": "Farming",
+  "skill.gridskills.cooking": "Cooking",
+  "skill.gridskills.bartering": "Bartering",
+  
+  "points.gridskills.core": "♮ Notes %d"
+}
