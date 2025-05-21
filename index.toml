@@ -145,14 +145,6 @@ file = "config/weaponleveling.json"
 hash = "6a773e718ea995414af9e3776cfa548de438bc2ea2e2f4df9374b4f6ed158dba"
 
 [[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "d6ec93f5b18bc71f0da340f8b297730df0b09efc16b4b2eb782adfd033d8faf7"
-
-[[files]]
-file = "config/yosbr/config/realcamera.json"
-hash = "f236969efb02ce11e0a5d37d1897e1f55d394bc1cb866f8bb7b19d8808c59a01"
-
-[[files]]
 file = "config/yosbr/options.txt"
 hash = "5b115ab9cd17b38b0f732bf1d3d1d57e3ed5bb40907b5495fc4209412fb5c6ff"
 
