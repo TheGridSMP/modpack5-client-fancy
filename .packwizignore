@@ -6,3 +6,5 @@
 /meta.json
 /versions/*
 /server/*
+*.bat
+*.sh
