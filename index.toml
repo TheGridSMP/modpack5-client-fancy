@@ -25,10 +25,6 @@ file = "config/gravestones.json"
 hash = "22603fc453b36aef3664028ecf474bed19d1548f7a56282d5638be1fc393c35a"
 
 [[files]]
-file = "config/jade/jade.json"
-hash = "4983cc576379c887dfaafd49df0ef02e1e9d96822a3aaed39f4a007918deccc1"
-
-[[files]]
 file = "config/modpack-update-checker/config.json"
 hash = "4bdf15015c205c91c5de150c5f1d9c53b663da382b4326bb9844ed19ab2a1e96"
 
@@ -63,6 +59,10 @@ hash = "960056af62750c9f189f235d0ea9c062ea64087ec18bcf0e37daf712150f2184"
 [[files]]
 file = "config/weaponleveling.json"
 hash = "6a773e718ea995414af9e3776cfa548de438bc2ea2e2f4df9374b4f6ed158dba"
+
+[[files]]
+file = "config/yosbr/config/jade/jade.json"
+hash = "4983cc576379c887dfaafd49df0ef02e1e9d96822a3aaed39f4a007918deccc1"
 
 [[files]]
 file = "config/yosbr/options.txt"
