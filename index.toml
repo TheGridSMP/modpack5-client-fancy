@@ -29,8 +29,8 @@ file = "config/bclib/biomes.json"
 hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
 
 [[files]]
-file = "config/bclib/cache.json"
-hash = "dfe352f9a928f6ebce72e5af92d8f4a6c338187bb318370c8b44f6db4f1387fc"
+file = "config/bclib/client.json"
+hash = "0b1c4029a9d88239e1b26615587e4f15b203e86499d79b39104ca51a3c9e6a74"
 
 [[files]]
 file = "config/bclib/generator.json"
@@ -45,12 +45,60 @@ file = "config/bclib/server.json"
 hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
+file = "config/bettercombat/client.json5"
+hash = "e8064b014f9e01c27b63877f98410dd166f79b562aabb0d8fc365aeef2616902"
+
+[[files]]
 file = "config/bettercombat/server.json5"
 hash = "078534e35fbd371a879fec3af791ac61998e41f00a88452c59075fc38713379b"
 
 [[files]]
-file = "config/combatroll/server.json5"
-hash = "83e2ed95a95ea3e9d8c4ce8030d20de8d21841dfc9ebbdcd50a8cb694e51fe5b"
+file = "config/damagenumbers.json"
+hash = "2165ae2401aa8474cedda2dd0668bb83e59e7fcf5249786de445efb139f3ca96"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "07fba33bcbc6611e187d3f5348d7969303c55ecf652d7abab7075ca3b644e752"
+
+[[files]]
+file = "config/fancymenu/customization/com.jab125.mpuc.client.gui.screen.changelog.newchangelogscreen_layout.txt"
+hash = "47d8bad165ceaa65b27be61587a4e0d2fb09142dfea5936be9c90bd36aa27bf2"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "06b5580be8f18e1726506d1fcfabec991c9664d084e60298c3fe39f385f7ed68"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "dd696c907be24bf45d5a24ead2dc925a376017baf46b5139740b152cd6845b5f"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "cdd6043a8c0acfbcc38a1de7763594abaf3db51c220b011f30bbdd35ce672a40"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
+file = "config/gravestones.json"
+hash = "22603fc453b36aef3664028ecf474bed19d1548f7a56282d5638be1fc393c35a"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -63,6 +111,22 @@ hash = "f910846bd4b60bdcfd8732831383d2e31b80a66743c3e67133048eba2bb506b2"
 [[files]]
 file = "config/ledger.toml"
 hash = "6954d2a50ca922bda2b0e4e73eb4202f5061ac38103c80c7a61109e534d977f3"
+
+[[files]]
+file = "config/modpack-update-checker/config.json"
+hash = "4bdf15015c205c91c5de150c5f1d9c53b663da382b4326bb9844ed19ab2a1e96"
+
+[[files]]
+file = "config/modpack-update-checker/modpack-info.txt"
+hash = "bb35f8a4727f0cf39db7c376bb4ca4dcae772dbd278c80b197616f163cb7d015"
+
+[[files]]
+file = "config/provihealth.json"
+hash = "27bab128c37d341fc9422612c361fb18e47f3aca73ebc5d190f4a4dc5b2094d9"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "186cb9523a4c0d1806719ea5c2b00d71553b2affa3fb8916b04800c5dad51767"
 
 [[files]]
 file = "config/rpgdifficulty.json"
@@ -89,28 +153,33 @@ file = "config/skillz/main_config.toml"
 hash = "6228d08dda324c40eda14117c1d1df2495d08a6e4804bed0ff4804f26dbd2f20"
 
 [[files]]
-file = "config/staffsentinel.json"
-hash = "6de7534be3e68a6f85f5721269856be4d4c11429af4c7853bf34d6e285c6fa19"
-
-[[files]]
-file = "config/styled-chat.json"
-hash = "517c88cb7563d46d3a13df558b71abb8f18f41ab1f4a3f78b4ed3b2daef0c846"
-
-[[files]]
-file = "config/styled-nicknames.json"
-hash = "c3a68ff97284d5fa78b1eb0afef89baf9faa8b73ed5473e88f79bd2336ab1434"
-
-[[files]]
-file = "config/voicechat/voicechat-server.properties"
-hash = "258e802e106c19bd30f3dd013b6a95469e7b6862a7f6ec17826032cf22b6edf0"
-
-[[files]]
 file = "config/waystones-common.toml"
 hash = "960056af62750c9f189f235d0ea9c062ea64087ec18bcf0e37daf712150f2184"
 
 [[files]]
 file = "config/weaponleveling.json"
 hash = "6a773e718ea995414af9e3776cfa548de438bc2ea2e2f4df9374b4f6ed158dba"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "d6ec93f5b18bc71f0da340f8b297730df0b09efc16b4b2eb782adfd033d8faf7"
+
+[[files]]
+file = "config/yosbr/config/realcamera.json"
+hash = "f236969efb02ce11e0a5d37d1897e1f55d394bc1cb866f8bb7b19d8808c59a01"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "5b115ab9cd17b38b0f732bf1d3d1d57e3ed5bb40907b5495fc4209412fb5c6ff"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "f6ad0348c36206ba00a0b00d5eb933d1eaadcc5491541013a0491684b7ac562a"
+
+[[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "9e56c813c3000384bbb06f72500ea95b4407cd710143840a4a41440dbf1d8a1c"
+metafile = true
 
 [[files]]
 file = "mods/additional-rpg-jewelry.pw.toml"
@@ -233,6 +302,11 @@ hash = "58d6861337626edf09635b6bc0bc45f49286c2517a234cb50baee9a23c538fc6"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "d2e1ad62031e3700de73a87957a4acca747436a4135da695705cb5d293aa0890"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -245,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "0ddc386e8216df00c0f15e3c6f89e4b295e90722f4cb3fe09baa47e733045727"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
@@ -338,6 +417,16 @@ hash = "ce52bbcb7eedb076cac9ebed5ad8b2f6dd6fe735309f2d70702f880ee68b184c"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "724f38446c3830230388cec99fed286ff1e8580f0a82c1466c7d59bde4450c71"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "431846491318f66fdef523f169044383847e75d3e1ff36cccd2bf8cb10e85ae8"
+metafile = true
+
+[[files]]
 file = "mods/eternal-attributes.pw.toml"
 hash = "64b486e16ccc051f897e7cc16ce33c45b3f7d45c3622544f15c54bb354efea76"
 metafile = true
@@ -375,6 +464,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "4d3de174f8914ab199931bb4217ea32370046fc2463c8c84b6cbdf4b710a744c"
 metafile = true
 
 [[files]]
@@ -466,6 +560,11 @@ hash = "796a322e8832c389de5c5b0f810d27022aec62404c265506f9c1bf04d990251e"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
+metafile = true
+
+[[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "586639e23263dd1ff640f2c46317f9a7aa8d1caa3492af9ac7349172e7c2bd2e"
 metafile = true
@@ -488,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/inmis.pw.toml"
 hash = "e01ce5532a51c50aa999585b102a58930aebf8e3d3e56addbb0e8e464a992a10"
+metafile = true
+
+[[files]]
+file = "mods/inventoryscale.pw.toml"
+hash = "b7eeb2d82dd4821773582a22691ad216bc39bd72941c2a07ed95b31dffd29c9d"
 metafile = true
 
 [[files]]
@@ -521,6 +625,11 @@ hash = "a06e2f058ccc09999d2437517969b248bc7008ea9e990996b11d7458253784f7"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "b513d087ba54c55be452d8ddc3305def54ca437f48f8ff1b28f4853e56404469"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
@@ -528,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "ef561650c251d4780b9cb948ddcacd4f43abe0dc0e31cb1aa22bac0147fe805e"
 metafile = true
 
 [[files]]
@@ -606,6 +720,16 @@ hash = "10d0880665a5abd65af746a8c473048a8ac0b3803631b3bcf18cee2eba0a1f28"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/modpack-update-checker.pw.toml"
+hash = "d1196d7770130a4470cb6ddae2558569409c7a9f98693ad959c8e5570277d1da"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "b7a5102d9c5e8b022ea507d219520130ebfefd0eeddfd74c3627aa6f27335932"
 metafile = true
@@ -638,6 +762,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
+metafile = true
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "d38f50aad915b4c2f6ee7dfe1a480970def9dd312932504c4f008cbe17988306"
 metafile = true
 
 [[files]]
@@ -706,6 +835,11 @@ hash = "e986b22b8ce2d1b88a0ccd0c9f89c7df401f2cf0fb48c5781a01cd22d2cd8052"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "0ba23afebc8a761538a860cf9b21d6f456cfecf4573249dae9c6d7b1f3d43089"
+metafile = true
+
+[[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
 hash = "4339a9ad894178c1019aef8951f6cf122b8f5b5721a16830b46f5d3aac1f6a3f"
 metafile = true
@@ -753,6 +887,11 @@ metafile = true
 [[files]]
 file = "mods/scriptor-magicae.pw.toml"
 hash = "ed7fc2e1fabeb5d3abe356a1a5f12c7ba3c846e14721ee6368f70d9067ce9936"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
@@ -865,6 +1004,11 @@ hash = "b19fd9ac623c231329f11d68b6c80d1c0bfcd129d426a611e5123c5e7959d195"
 metafile = true
 
 [[files]]
+file = "mods/tooltip-scrolling.pw.toml"
+hash = "d8306df585ebd2e05c2902860997d3352b039593d7b46012b5e9a2665fbb8c06"
+metafile = true
+
+[[files]]
 file = "mods/tough-as-nails.pw.toml"
 hash = "a4acd311571559c158dcb90e8030289bf89942ede6efbba38f4f6096e2d2563d"
 metafile = true
@@ -877,6 +1021,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/true-darkness-refabricated.pw.toml"
+hash = "cdcd8b1b9f62eea4f46ed5bc3a58125ae5ae2ceb1854739666eeacffda6fabc7"
 metafile = true
 
 [[files]]
@@ -910,6 +1059,11 @@ hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
 metafile = true
 
 [[files]]
+file = "mods/yosbr.pw.toml"
+hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "95940b5fc72e8df82ab3adb72b43d10a37e6d926fbb37c405c9fe50bda27a991"
 metafile = true
@@ -917,4 +1071,209 @@ metafile = true
 [[files]]
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "03a44e4a940e981bc6e8153932b3a36f119783885942818bbfeeaf9000f97db3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/client/assets/gridskills/textures/gui/sprites/agility.png"
+hash = "8e1a1732dfb297fef54eda3ec609962487e35a4f55721ed095f10177467d6aa5"
+
+[[files]]
+file = "resourcepacks/client/assets/gridskills/textures/gui/sprites/alchemy.png"
+hash = "d239f8627f236eb3d188e737dbd7194c3b53083870b13da5f97950276377b17a"
+
+[[files]]
+file = "resourcepacks/client/assets/gridskills/textures/gui/sprites/archery.png"
+hash = "1ba77cab193147b50aa3d3e02e50b30661a3c944e51ba441daac24611963cac8"
+
+[[files]]
+file = "resourcepacks/client/assets/gridskills/textures/gui/sprites/bartering.png"
+hash = "144801bb632095d374970e6c396b02e4fa39d8f5a6d3773015f6a3d4200bd423"
+
+[[files]]
+file = "resourcepacks/client/assets/gridskills/textures/gui/sprites/constitution.png"
+hash = "700b5ec52c7fe8ea33bc1f29906de21d5b18feafc3337bf082902145468eb44e"
+
+[[files]]
+file = "resourcepacks/client/assets/gridskills/textures/gui/sprites/cooking.png"
+hash = "5a0eb0f19d8b5f623f79349cc9887bcd3b6e785cb0b38600375b11f0667712f5"
+
+[[files]]
+file = "resourcepacks/client/assets/gridskills/textures/gui/sprites/defense.png"
+hash = "4f2b317c4d08022fe260819b32ac2a96c5438636360738086b15be5d144a93eb"
+
+[[files]]
+file = "resourcepacks/client/assets/gridskills/textures/gui/sprites/farming.png"
+hash = "e9c3d7fbf71afa14f0bb01ecb2b9e45076524daca02c7cdac2f1f29c4706ae64"
+
+[[files]]
+file = "resourcepacks/client/assets/gridskills/textures/gui/sprites/luck.png"
+hash = "6f5b666dc64c5d028506fa4662d0025f2f6371f39f0e78a552b00db00eb64354"
+
+[[files]]
+file = "resourcepacks/client/assets/gridskills/textures/gui/sprites/magic.png"
+hash = "651d89692773be5f6d33c121fa4c147e0751e26efb8e2a60561a7d899ad9710a"
+
+[[files]]
+file = "resourcepacks/client/assets/gridskills/textures/gui/sprites/melee.png"
+hash = "5491b730ebe2403e7a87b5a05389e4faf68160b559e038fc542e95299500447a"
+
+[[files]]
+file = "resourcepacks/client/assets/gridskills/textures/gui/sprites/mining.png"
+hash = "3d0f09adefaa83d0e029b16390e893b0ee092710401447c77cfedfab828d2618"
+
+[[files]]
+file = "resourcepacks/client/assets/gridskills/textures/gui/sprites/smithing.png"
+hash = "364e248b8fa2d3e2e97fc48772356587d93734f8ae70a9da6ccf9b08aea7e9dd"
+
+[[files]]
+file = "resourcepacks/client/assets/legendarytooltips/frame_definitions.json"
+hash = "1b0c99ca55b46ad3675e769cd906093dd6ee3a82617478231c0a68f0bf82521e"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/lang/en_us.json"
+hash = "f00d3245762e0ee38186d6c7eb5372d139629dd5fd14aa7ba79be0b0757947a7"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/models/block/fire_floor1.json"
+hash = "b85c603eb73b1cbe355879fabb918f7c270027025ab2dc0c183c99e45fc179e9"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/models/block/fire_side1.json"
+hash = "50082dcc861c1af7447d81a69497a5f0d8336838656bba4280a6ebbcdc30d8b4"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/models/block/fire_side_alt1.json"
+hash = "4e0ea31654a913a4284c2ccd362aebac300ec0b2561fc84b5629412147387cf3"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/models/block/fire_up1.json"
+hash = "79da32ad5628a2f7549e4f81561d30ecf8a8479af0c16ae86aaadf1855d6228a"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/models/block/fire_up_alt1.json"
+hash = "832b8f792a99b7a8bc923000a927d85a7a8e15ed545cf8a138e027ad5170e128"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/optifine/color.properties"
+hash = "620410caa5decc875bd49db06ef6ffd8060996d191e09c903608451ae2216517"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/block/fire_0.png"
+hash = "c7a342a5f8016507a39ff50004437e55a52206c441b993612529de7a3b33cdf2"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/block/fire_0.png.mcmeta"
+hash = "658d67c1b3206e23a401d04ec196512b72702b7b8c6fa0200c6c66250529bbbb"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/block/fire_1.png"
+hash = "46a4cf2d2933f12eda13e7fe56313edf1fa37f19e21ef7026c685d34613a9052"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/block/fire_1.png.mcmeta"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/block/fire_2.png"
+hash = "bb0edf37c52d25ebcbbeb40cd96a6cd956181e2d25d37e5df4b644adc91592fd"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/block/fire_2.png.mcmeta"
+hash = "802acdb8f55f30146d5ed18414b21ba35650d4e550f81825ea104131c12dc4fc"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/accessibility.png"
+hash = "93e6d8c201d913bc60f8d23eaf4f232c2b04b4375afba155083c35366e8b2e36"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/info_hover.png"
+hash = "34a8d24e8cfb74e315a0655f7dcf174536844ff3a197f60c9b69a24ebe7b556d"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/info_normal.png"
+hash = "526320eb954bc3315b5bcd8a631e25c7c1a348bbd2baa9e2c3e76fd4089ed851"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/light_dirt_background.png"
+hash = "0dcc321806ff09bfdae9db14481ba2d1f21fe179bfb9d1a666b25ecee564662b"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/options_background.png"
+hash = "0dcc321806ff09bfdae9db14481ba2d1f21fe179bfb9d1a666b25ecee564662b"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/slider.png"
+hash = "4eaae905bc32a064c04dc2e33e5cfe747ce9eb3b4463a26a303f08435b732dc5"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "b4bae9cf30006f07d7cbff01add4ea4fdacbf5a25ee1ba65ee8f79cab3e48ad8"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "13db182956d2281e649cd3c2143ca84f8c24369069bb172f91b59ef310a1e9df"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "330dceefcd7547ac7fae262889cfc81c0fbabe24f8b1d620a40acd330f617728"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "42f507c232f1b83e099da3a62b5afff2fc63e7e131ce39a362beeaf41e1d359e"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "f670abe2294c4c792a126c478d076be938a766392ab01d4f7c96730781b9415d"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "c3e740d0bad2d58ef3cf2201580b3e8bddc7e69c93bc03355677d1287e839aa1"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/title/minecraft.png"
+hash = "d70196cb2e3cf8364a7b9c8bb9644c51e06cc6133490e3abbd9eee629576dce6"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/title/minecraft.png.mcmeta"
+hash = "a4f5e3c3235dd128ee6d2ce397217e8c77037dbcf641aaa5bef65824e3b4b168"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/title/mojangstudios.png"
+hash = "d24e4027df0903c601a7cee27ab74fff0b1debb0dafeb32123cb9c9ab9f44e3c"
+
+[[files]]
+file = "resourcepacks/client/assets/minecraft/textures/gui/widgets.png"
+hash = "34b1e56ce01cc41e6cee80e448d07ccd088775d3fd6ef48aa5cd860e77204510"
+
+[[files]]
+file = "resourcepacks/client/pack.mcmeta"
+hash = "cf601f63dd77ed8a1d534670ae044375f7dbbf75d25e3ea67006d2cbc2e044c5"
+
+[[files]]
+file = "resourcepacks/client/pack.png"
+hash = "70df506b45df6ac23b70edd97d849882aa2ca28e8bdf81a370a3f9d3a7485773"
+
+[[files]]
+file = "resourcepacks/eclectic-trove-legendary-tooltips.pw.toml"
+hash = "9a6ab77e1d53e4372fcb93f78069ed3a4619361773d8f40430b0baf1375ffb95"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "d9e7e86ddb96102cedc1173006459c1cb4338698087bf16258abb23dd7889219"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "c787950c5bdbff78bc2ef218554f1486fc81f747d7abd4a29fba5286229b225a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/qraftys-capitalized-font.pw.toml"
+hash = "d99bd9042558fb357349145f26e1b10f9c9830525b47e9281dcc8eae4f38f13c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/simple-create-radios.pw.toml"
+hash = "68e8ad1650417991011a69322816e87578a345c24819a677b98d9094ee9a7b40"
 metafile = true
