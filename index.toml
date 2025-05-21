@@ -29,10 +29,6 @@ file = "config/bclib/biomes.json"
 hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
 
 [[files]]
-file = "config/bclib/cache.json"
-hash = "dfe352f9a928f6ebce72e5af92d8f4a6c338187bb318370c8b44f6db4f1387fc"
-
-[[files]]
 file = "config/bclib/generator.json"
 hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
 
@@ -51,6 +47,10 @@ hash = "078534e35fbd371a879fec3af791ac61998e41f00a88452c59075fc38713379b"
 [[files]]
 file = "config/combatroll/server.json5"
 hash = "83e2ed95a95ea3e9d8c4ce8030d20de8d21841dfc9ebbdcd50a8cb694e51fe5b"
+
+[[files]]
+file = "config/gravestones.json"
+hash = "22603fc453b36aef3664028ecf474bed19d1548f7a56282d5638be1fc393c35a"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -87,22 +87,6 @@ hash = "60fe4644dae4d1f2a720f4ed407bdac5496173a6acb5e74c482fdcefad8c0390"
 [[files]]
 file = "config/skillz/main_config.toml"
 hash = "6228d08dda324c40eda14117c1d1df2495d08a6e4804bed0ff4804f26dbd2f20"
-
-[[files]]
-file = "config/staffsentinel.json"
-hash = "6de7534be3e68a6f85f5721269856be4d4c11429af4c7853bf34d6e285c6fa19"
-
-[[files]]
-file = "config/styled-chat.json"
-hash = "517c88cb7563d46d3a13df558b71abb8f18f41ab1f4a3f78b4ed3b2daef0c846"
-
-[[files]]
-file = "config/styled-nicknames.json"
-hash = "c3a68ff97284d5fa78b1eb0afef89baf9faa8b73ed5473e88f79bd2336ab1434"
-
-[[files]]
-file = "config/voicechat/voicechat-server.properties"
-hash = "258e802e106c19bd30f3dd013b6a95469e7b6862a7f6ec17826032cf22b6edf0"
 
 [[files]]
 file = "config/waystones-common.toml"
