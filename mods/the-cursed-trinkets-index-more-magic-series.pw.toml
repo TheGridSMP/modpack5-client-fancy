@@ -1,0 +1,13 @@
+name = "The Cursed Trinkets Index [More Magic Series]"
+filename = "tctimod-0.0.6-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uvpKDJJr/versions/D945wu8P/tctimod-0.0.6-1.20.1.jar"
+hash-format = "sha512"
+hash = "37257d73e71093175bb9e749a923ad0a732e0628402801a84e227a483854367a4db1ad6b62960e36afb3e167f43cc78f128706bc4daa2f0a3fcf8bd34efa96e4"
+
+[update]
+[update.modrinth]
+mod-id = "uvpKDJJr"
+version = "D945wu8P"

@@ -1,0 +1,13 @@
+name = "Elemental Metals [Magical Metallurgy Series]"
+filename = "elemental_metals-0.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mqF8xISJ/versions/9AIfO4V1/elemental_metals-0.0.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "0bf1d90d331b05ce1c184bfe06dcdc21ba052960132e1a60ce46e012c78b47df5d830bf79c572e374ca6341c0b765a6e901eb67916ad0e1d4cae219b220f6784"
+
+[update]
+[update.modrinth]
+mod-id = "mqF8xISJ"
+version = "9AIfO4V1"

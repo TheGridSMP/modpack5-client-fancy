@@ -1,0 +1,13 @@
+name = "Attribute Backport"
+filename = "attribute-backport-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L4MwdPaO/versions/bGMZLDOo/attribute-backport-1.2.0.jar"
+hash-format = "sha512"
+hash = "77d5d166d660649997de26f696a85e64eeca3c159397ccc90189466d91c00ee722160309c731a2c9c690634f74b8b998d89b703aa5e653129ec8fc96467e13d6"
+
+[update]
+[update.modrinth]
+mod-id = "L4MwdPaO"
+version = "bGMZLDOo"

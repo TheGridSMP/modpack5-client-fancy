@@ -1,0 +1,13 @@
+name = "Create : Numismatic Bounties"
+filename = "Create-Numismatic Bounties-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gNGxmzHv/versions/lk5lApGB/Create-Numismatic%20Bounties-universal.jar"
+hash-format = "sha512"
+hash = "c727917330179e06aede763287f309a119f7c099bf4c2cf310a199baf2027dfca616c6159f156bd99e2d2a956bc6874c0ff2977365f93bfc89d4522c603e9703"
+
+[update]
+[update.modrinth]
+mod-id = "gNGxmzHv"
+version = "lk5lApGB"

@@ -1,0 +1,110 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+
+[LEVEL]
+# Maximum level: 0 = disabled
+overallMaxLevel = 0
+# In combination with overallMaxLevel, only when all skills maxed
+allowHigherSkillLevel = false
+startPoints = 5
+pointsPerLevel = 3
+# If true will reset stats on death
+hardMode = false
+disableMobFarms = true
+# Amount of allowed mob kills in a chunk
+mobKillCount = 8
+# Strange potion resets all stats instead of one
+opStrangePotion = false
+# Restrict hand usage when item not unlocked
+lockedHandUsage = true
+# Restrict block breaking without required mining level
+lockedBlockBreaking = true
+# Only for Devs
+devMode = false
+
+[PROGRESSION]
+restrictions = true
+defaultRestrictions = false
+# Remember to name your datapack json differently than default
+defaultSkills = false
+
+[EXPERIENCE]
+# XP equation: lvl^exponent * multiplicator + base
+xpCostMultiplicator = 0.1
+xpExponent = 2
+xpBaseCost = 50
+# 0 = no experience cap
+xpMaxCost = 0
+resetCurrentXp = true
+dropXPbasedOnLvl = false
+# 0.01 = 1% more xp per lvl
+basedOnMultiplier = 0.01
+breedingXPMultiplier = 1.0
+bottleXPMultiplier = 1.0
+dragonXPMultiplier = 0.5
+fishingXPMultiplier = 0.8
+furnaceXPMultiplier = 0.1
+oreXPMultiplier = 1.0
+tradingXPMultiplier = 0.3
+mobXPMultiplier = 1.0
+spawnerMobXP = false
+
+[BONUSES]
+# Bonus id: bowDamage
+bowDamageBonus = 1
+# Bonus id: bowDoubleDamageChance
+bowDoubleDamageChanceBonus = 0.15
+# Bonus id: crossbowDamage
+crossbowDamageBonus = 0.65
+# Bonus id: crossbowDoubleDamageChance
+crossbowDoubleDamageChanceBonus = 0.2
+# Bonus id: itemDamageChance
+itemDamageChanceBonus = 0.01
+# Bonus id: potionEffectChance
+potionEffectChanceBonus = 0.2
+# Bonus id: twinBreedChance
+twinBreedChanceBonus = 0.2
+# Bonus id: fallDamageReduction
+fallDamageReductionBonus = 0.2
+# Bonus id: deathGraceChance
+deathGraceChanceBonus = 0.2
+# Bonus id: tntStrength
+tntStrengthBonus = 1.0
+# Bonus id: priceDiscount
+priceDiscountBonus = 0.01
+# Bonus id: tradeXp
+tradeXpBonus = 0.02
+# Bonus id: miningDropChance
+miningDropChanceBonus = 0.01
+# Bonus id: plantDropChance
+plantDropChanceBonus = 0.01
+# Bonus id: anvilXpCap
+anvilXpCap = 70
+# Bonus id: anvilXpDiscount
+anvilXpDiscountBonus = 0.02
+# Bonus id: anvilXpChance
+anvilXpChanceBonus = 0.01
+# Bonus id: healthRegen
+healthRegenBonus = 0.025
+# Bonus id: healthAbsorption
+healthAbsorptionBonus = 4.0
+# Bonus id: exhaustionReduction
+exhaustionReductionBonus = 0.02
+# Bonus id: knockbackAttackChance
+meleeKnockbackAttackChanceBonus = 0.01
+# Bonus id: meleeCriticalAttackChance
+meleeCriticalAttackChanceBonus = 0.02
+# Bonus id: nonMeleeSweepingAttackChance
+nonMeleeSweepingAttackChance = 0.01
+# Bonus id: meleeCriticalAttackDamage
+meleeCriticalAttackDamageBonus = 0.5
+# Bonus id: meleeDoubleAttackDamageChance
+meleeDoubleAttackDamageChanceBonus = 0.2
+# Bonus id: foodIncreasion
+foodIncreasionBonus = 0.025
+# Bonus id: damageReflection
+damageReflectionBonus = 0.02
+# Bonus id: damageReflectionChance
+damageReflectionChanceBonus = 0.005
+# Bonus id: evadingDamageChance
+evadingDamageChanceBonus = 0.1

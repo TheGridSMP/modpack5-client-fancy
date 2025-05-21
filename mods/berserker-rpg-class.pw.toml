@@ -1,0 +1,13 @@
+name = "Berserker (More RPG Classes)"
+filename = "berserker-class-mod-1.2.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8hqOZzxM/versions/Bqegppli/berserker-class-mod-1.2.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "20ce7ba84a4d89539800707ef88a7f6c3b44ac6704a432908aed76665298d7a21a4d0d077244f41de8e7feafa8266ae0a67ebc3245699511119f1ed490769c6b"
+
+[update]
+[update.modrinth]
+mod-id = "8hqOZzxM"
+version = "Bqegppli"

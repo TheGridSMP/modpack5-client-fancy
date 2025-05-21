@@ -1,0 +1,13 @@
+name = "gsmp5"
+author = "GSMP Team"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1434f253aed640d74d34d03aecba58a91f927332eb52fd7909ff23e56f44f429"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.20.1"

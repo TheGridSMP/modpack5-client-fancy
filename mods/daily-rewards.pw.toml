@@ -1,0 +1,13 @@
+name = "Daily Rewards"
+filename = "daily_rewards-1.20.1-5.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IsAmLg1d/versions/uABu9yno/daily_rewards-1.20.1-5.3.1.jar"
+hash-format = "sha512"
+hash = "e2abdcd24517dd514c088c05460643d1a1586b7d01d89d78e2e13d546ca7d037a908ca3c6793020fc490bd9d95c91d1df3a921c2cf689e04c2c6ad8eebc64246"
+
+[update]
+[update.modrinth]
+mod-id = "IsAmLg1d"
+version = "uABu9yno"

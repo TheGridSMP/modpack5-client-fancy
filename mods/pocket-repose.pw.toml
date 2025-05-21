@@ -1,0 +1,13 @@
+name = "Pocket Repose"
+filename = "pocket-repose-1.1.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qwBon1nq/versions/tFnpKuKt/pocket-repose-1.1.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "1ebc5959f6dd9b36b16db6f3a7209d7660bc21730df8a441a62db7b350e4aa49600c48b704f58dac35903844dcf2547efd7b7a4042fae99419e2558bcde7a926"
+
+[update]
+[update.modrinth]
+mod-id = "qwBon1nq"
+version = "tFnpKuKt"

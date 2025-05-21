@@ -1,0 +1,13 @@
+name = "Dungeons+: More Spawners"
+filename = "more_spawners-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ETYqWHa5/versions/EdTvZduh/more_spawners-1.1.0.jar"
+hash-format = "sha512"
+hash = "0f994930690d76d5ec5e989aecdfa3a3e4bd4b90cd0ca6a929249cb10f5da1d6dee3f19be1e45d3b3c06bf3ba5e71167f80300e472b3c13d3563bfc6fb2755c4"
+
+[update]
+[update.modrinth]
+mod-id = "ETYqWHa5"
+version = "EdTvZduh"

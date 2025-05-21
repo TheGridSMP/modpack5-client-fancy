@@ -1,0 +1,13 @@
+name = "More Wizards [More Magic Series]"
+filename = "morewizardsmod-0.1.7-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oJkZIwJu/versions/jG51CzTd/morewizardsmod-0.1.7-1.20.1.jar"
+hash-format = "sha512"
+hash = "7bbea3ccf5930f349327abe7b5a3a0498aea99d41216e18b0f71095def1f39fa3b281f3ff47efba0e87532148fbed14e42fcf6b69ace62cf01c040ab6c1067ac"
+
+[update]
+[update.modrinth]
+mod-id = "oJkZIwJu"
+version = "jG51CzTd"

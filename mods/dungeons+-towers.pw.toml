@@ -1,0 +1,13 @@
+name = "Dungeons+: Towers"
+filename = "towers-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vdl5436m/versions/kUQvObix/towers-1.0.1.jar"
+hash-format = "sha512"
+hash = "77cfea2bb06738af545f3061e5a119c5896e0d262193b5584e8d0f7aa39b9a32b4d2800bf43940bd2a96ca0199d026622ae34142c5004ca36a2dfc2e3ab9e15c"
+
+[update]
+[update.modrinth]
+mod-id = "vdl5436m"
+version = "kUQvObix"

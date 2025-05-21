@@ -1,0 +1,13 @@
+name = "Foodables"
+filename = "foodables-1.0.1-1.20+.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5SJza7mc/versions/Txls4EHg/foodables-1.0.1-1.20%2B.jar"
+hash-format = "sha512"
+hash = "373e5b8e29782fff9b89bbbe766ea699e97606868463e6845c86df5bfd4065f8c379b968aa44a330fef19bf85945abefa5bd5856d2c890cf78582392599fc60c"
+
+[update]
+[update.modrinth]
+mod-id = "5SJza7mc"
+version = "Txls4EHg"

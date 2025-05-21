@@ -1,0 +1,13 @@
+name = "TabAPI"
+filename = "tabapi-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/561gHy1d/versions/8ibkRodf/tabapi-1.1.2.jar"
+hash-format = "sha512"
+hash = "1f6f782da7fc9e642c51f4d6c2152c31b2521fc5f1cd37e799658671fd85b9bd626cb03e01e1a38238ff159cc362e3fc27a5d15de740b55299d8e2f164772809"
+
+[update]
+[update.modrinth]
+mod-id = "561gHy1d"
+version = "8ibkRodf"

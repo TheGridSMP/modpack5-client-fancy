@@ -1,0 +1,13 @@
+name = "Dragonsteel & Star Alloy [Magical Metallurgy Series]"
+filename = "dragonsteel-0.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/peuf5ER3/versions/Ho0RAjai/dragonsteel-0.0.2-1.20.1.jar"
+hash-format = "sha512"
+hash = "1341ca7e0a3a5ba2fdca072d13e10b79716d0cd30a64c8a7012a8610cd023e8fae39ce7db43fbc2f7a8ec58c45705c1dc82b8133f3fdbca551c353f2a48480d0"
+
+[update]
+[update.modrinth]
+mod-id = "peuf5ER3"
+version = "Ho0RAjai"
