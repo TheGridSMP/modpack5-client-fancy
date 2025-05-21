@@ -145,6 +145,14 @@ file = "config/weaponleveling.json"
 hash = "6a773e718ea995414af9e3776cfa548de438bc2ea2e2f4df9374b4f6ed158dba"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "5b115ab9cd17b38b0f732bf1d3d1d57e3ed5bb40907b5495fc4209412fb5c6ff"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "f6ad0348c36206ba00a0b00d5eb933d1eaadcc5491541013a0491684b7ac562a"
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "9e56c813c3000384bbb06f72500ea95b4407cd710143840a4a41440dbf1d8a1c"
 metafile = true
