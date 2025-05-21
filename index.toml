@@ -29,12 +29,12 @@ file = "config/bclib/main.json"
 hash = "76f5a4914f8f4f973cb2c60c45b7aa18b55061d6ce76fea999f955e01f2b5170"
 
 [[files]]
-file = "config/bettercombat/server.json5"
-hash = "078534e35fbd371a879fec3af791ac61998e41f00a88452c59075fc38713379b"
-
-[[files]]
 file = "config/bettercombat/client.json5"
 hash = "e8064b014f9e01c27b63877f98410dd166f79b562aabb0d8fc365aeef2616902"
+
+[[files]]
+file = "config/bettercombat/server.json5"
+hash = "078534e35fbd371a879fec3af791ac61998e41f00a88452c59075fc38713379b"
 
 [[files]]
 file = "config/damagenumbers.json"
@@ -79,10 +79,6 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 [[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
-
-[[files]]
-file = "config/gravestones.json"
-hash = "22603fc453b36aef3664028ecf474bed19d1548f7a56282d5638be1fc393c35a"
 
 [[files]]
 file = "config/gravestones.json"
@@ -147,22 +143,6 @@ hash = "960056af62750c9f189f235d0ea9c062ea64087ec18bcf0e37daf712150f2184"
 [[files]]
 file = "config/weaponleveling.json"
 hash = "6a773e718ea995414af9e3776cfa548de438bc2ea2e2f4df9374b4f6ed158dba"
-
-[[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "d6ec93f5b18bc71f0da340f8b297730df0b09efc16b4b2eb782adfd033d8faf7"
-
-[[files]]
-file = "config/yosbr/config/realcamera.json"
-hash = "f236969efb02ce11e0a5d37d1897e1f55d394bc1cb866f8bb7b19d8808c59a01"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "5b115ab9cd17b38b0f732bf1d3d1d57e3ed5bb40907b5495fc4209412fb5c6ff"
-
-[[files]]
-file = "config/yosbr/servers.dat"
-hash = "f6ad0348c36206ba00a0b00d5eb933d1eaadcc5491541013a0491684b7ac562a"
 
 [[files]]
 file = "mods/adaptive-tooltips.pw.toml"
