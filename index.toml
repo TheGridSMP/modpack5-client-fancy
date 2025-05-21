@@ -25,24 +25,8 @@ file = "config/arcanuscontinuum.jsonc"
 hash = "ee7c3f513736888214685636585bd693e7c4db5f70583b2f7d8d3e5126619789"
 
 [[files]]
-file = "config/bclib/biomes.json"
-hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
-
-[[files]]
-file = "config/bclib/client.json"
-hash = "0b1c4029a9d88239e1b26615587e4f15b203e86499d79b39104ca51a3c9e6a74"
-
-[[files]]
-file = "config/bclib/generator.json"
-hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
-
-[[files]]
 file = "config/bclib/main.json"
 hash = "76f5a4914f8f4f973cb2c60c45b7aa18b55061d6ce76fea999f955e01f2b5170"
-
-[[files]]
-file = "config/bclib/server.json"
-hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
 
 [[files]]
 file = "config/bettercombat/client.json5"
