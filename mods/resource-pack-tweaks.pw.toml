@@ -1,0 +1,13 @@
+name = "Resource Pack Tweaks"
+filename = "rptweaks-1.0.2-1.19.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oWNnsLSC/versions/tzL8lcFf/rptweaks-1.0.2-1.19.3.jar"
+hash-format = "sha512"
+hash = "43fcccd45edb482ba62552105bd0e7b085f03e1a198b9deb8970f2b05e5e0aba6d981da24e8c9e8053ee79dc36e8229f8d8707627aefd666ff6ff1e63621fc76"
+
+[update]
+[update.modrinth]
+mod-id = "oWNnsLSC"
+version = "tzL8lcFf"
