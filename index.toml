@@ -61,6 +61,10 @@ file = "config/weaponleveling.json"
 hash = "6a773e718ea995414af9e3776cfa548de438bc2ea2e2f4df9374b4f6ed158dba"
 
 [[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "d6ec93f5b18bc71f0da340f8b297730df0b09efc16b4b2eb782adfd033d8faf7"
+
+[[files]]
 file = "config/yosbr/config/jade/jade.json"
 hash = "4983cc576379c887dfaafd49df0ef02e1e9d96822a3aaed39f4a007918deccc1"
 
