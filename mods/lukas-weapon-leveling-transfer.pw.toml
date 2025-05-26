@@ -1,0 +1,13 @@
+name = "Lukas' Weapon Leveling Transfer"
+filename = "weaponlevelingtransfer-1.0.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LfRAwSl8/versions/bQqmdGRp/weaponlevelingtransfer-1.0.3.jar"
+hash-format = "sha512"
+hash = "7015600d6b0f3e3eb337cbfbf8f5eca7a7bd17db050d62cadb2c8072eba5a3e9b2eacfcb4e5713f7e0375b41e4e21b0fe800065c4989c249b8fe8fe443244053"
+
+[update]
+[update.modrinth]
+mod-id = "LfRAwSl8"
+version = "bQqmdGRp"

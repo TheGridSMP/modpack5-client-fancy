@@ -133,6 +133,11 @@ hash = "71e4a76a94b20b8ff2e59713acd749092f3dccaaa883cf7bc9f0bd0105c0aac9"
 metafile = true
 
 [[files]]
+file = "mods/attributes.pw.toml"
+hash = "e835c96ac797a0c266fba69d59e9ccead87e57e7452ce20f3a4fab54f12ff000"
+metafile = true
+
+[[files]]
 file = "mods/autotag.pw.toml"
 hash = "a225404286ee9479f97a8545c96dca0c8e78a1aff1f8546d55915373196a81c0"
 metafile = true
@@ -618,6 +623,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
+metafile = true
+
+[[files]]
+file = "mods/lukas-weapon-leveling-transfer.pw.toml"
+hash = "84c662882736fa427415a40e37634dcf68ca33b34f3a65eafb8633805516c307"
 metafile = true
 
 [[files]]
