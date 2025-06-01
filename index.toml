@@ -98,6 +98,10 @@ hash = "d9298a63d5486b0d1891506baf2caf722deaf028c9ce809c11d2a305ca4c4d41"
 metafile = true
 
 [[files]]
+file = "mods/FastMove-1.20.1-1.0.8+gsmp.1.jar"
+hash = "6a21b43823ab7914ff16f4b4460b41bacc6ddcfafc7dbf9ace4ea1c61556f298"
+
+[[files]]
 file = "mods/adaptive-tooltips.pw.toml"
 hash = "9e56c813c3000384bbb06f72500ea95b4407cd710143840a4a41440dbf1d8a1c"
 metafile = true
@@ -470,11 +474,6 @@ metafile = true
 [[files]]
 file = "mods/faster-random.pw.toml"
 hash = "605fe60f2ada4333e88ec2fa66cb57d0635292d83eee8d1ad40f2485d72ef013"
-metafile = true
-
-[[files]]
-file = "mods/fastmove.pw.toml"
-hash = "eb6f90591c0f013822b97d58f6e28fe50c8134e575a15a4588a491531a574d64"
 metafile = true
 
 [[files]]
