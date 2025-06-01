@@ -128,6 +128,11 @@ hash = "6a3c8dc042cb38689a43cb3820d2aea344cc09e80b5c694ca834ce8dccea44e2"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "884814a2b4276def6b0a2ae55d748115e5da30fb439889923be2baec8b70dbaa"
+metafile = true
+
+[[files]]
 file = "mods/attribute-backport.pw.toml"
 hash = "71e4a76a94b20b8ff2e59713acd749092f3dccaaa883cf7bc9f0bd0105c0aac9"
 metafile = true
