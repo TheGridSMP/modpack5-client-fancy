@@ -127,6 +127,11 @@ hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "85fc3f866a8f0c3b1b208c830d0fb737cc13f9fe3928a4ca5f005fdadfc6d175"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "903c493222fef5ecde127168b0c88e43dbb7df9c5e5cae4d2297de22c2323462"
 metafile = true
